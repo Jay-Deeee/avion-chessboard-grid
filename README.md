@@ -1,0 +1,1 @@
+My entry to our chessboard project, utilizing GRID, for the Avion School course.
